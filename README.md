@@ -1,5 +1,5 @@
 # ActiveDirectoryLab
-<h1>JWipe - Disk Sanitization</h1>
+
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
