@@ -1,10 +1,12 @@
-# ActiveDirectoryLab
+# Active Directory Dynamimcs
 
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+his project serves as a testament to my expertise in Active Directory management. I orchestrated the installation and configuration of VirtualBox, Windows Server 2016, and linked clones with Remote Desktop Protocol (RDP). Seamlessly incorporating Windows 10 client machines into the Windows Server 2016 domain, I meticulously crafted and tailored an Active Directory template, accommodating the unique properties of over 100 user accounts.
+ In addition, I fine-tuned the intricacies of the domain by configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2016. My role extended to the implementation of Group Policy Objects (GPO) within Active Directory, ensuring a streamlined and efficient organizational structure.
+ Furthermore, I spearheaded the integration of Azure AD Connect, establishing a seamless hybrid Azure AD join. This facilitated a user-friendly experience through Single Sign-On (SSO), empowered by password hash synchronization. This comprehensive project highlights my adeptness in deploying, managing, and optimizing Active Directory environments with precision and strategic foresight.
 <br />
 
 
