@@ -9,7 +9,6 @@
 <br/>
 
 
-
 -In addition, I fine-tuned the intricacies of the domain by configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2016. My role extended to the implementation of Group Policy Objects (GPO) within Active Directory, ensuring a streamlined and efficient organizational structure.
 
 -Furthermore, I spearheaded the integration of Azure AD Connect, establishing a seamless hybrid Azure AD join. This facilitated a user-friendly experience through Single Sign-On (SSO), empowered by password hash synchronization. This comprehensive project highlights my adeptness in deploying, managing, and optimizing Active Directory environments with precision and strategic foresight.</b>
