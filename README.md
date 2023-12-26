@@ -1,7 +1,7 @@
 # Active Directory Dynamimcs
 
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 
