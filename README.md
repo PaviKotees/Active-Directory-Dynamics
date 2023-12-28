@@ -9,8 +9,8 @@
 </b>
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VM VirtualBox</b> 
+- <b>Powershell</b>
 
 <h2>Environments Used </h2>
 
