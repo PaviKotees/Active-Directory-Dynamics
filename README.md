@@ -21,7 +21,7 @@
 
 <p align="center">
 Install Windows Server 2019: <br/>
-<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/fc9f17ea-2957-4525-aa5f-c0eda06cacb7"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/59d1097b-5c0a-4529-8f00-daa45e50099a"/>
 <br />
 <br />
 Select the disk:  <br/>
