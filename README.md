@@ -1,6 +1,4 @@
 # Active Directory Dynamics
-
-
 <h2>Description</h2>
 
 -This project serves as a testament to my expertise in Active Directory management. I orchestrated the installation and configuration of VirtualBox, Windows Server 2016, and linked clones with Remote Desktop Protocol (RDP). Seamlessly incorporating Windows 10 client machines into the Windows Server 2016 domain, I meticulously crafted and tailored an Active Directory template, accommodating the unique properties of over 100 user accounts.
