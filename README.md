@@ -38,7 +38,7 @@ Install Windows 10 on another machine, configure DC and Windows 10 machine to be
 <br />
 <br />
 Configure the DNS on Windows 10 machine to the DC which will be the DNS provider:  <br/>
-<img src="(https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/1ad6b4a8-9839-4e63-8817-f691d92f5aef)" height="80%" width="80%" alt="ADD"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/1ad6b4a8-9839-4e63-8817-f691d92f5aef" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
 Sanitization complete:  <br/>
