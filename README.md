@@ -37,8 +37,8 @@ Install Windows 10 on another machine, configure DC and Windows 10 machine to be
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/ce1e16e9-1b57-401c-8361-5fdb65445d6a" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure the DNS on Windows 10 machine to the DC which will be the DNS provider:  <br/>
+<img src="(https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/1ad6b4a8-9839-4e63-8817-f691d92f5aef)" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
 Sanitization complete:  <br/>
