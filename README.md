@@ -1,10 +1,10 @@
 # Active Directory Dynamics
 <h2>Description</h2>
 
--This project serves as a testament to my expertise in Active Directory management. I orchestrated the installation and configuration of VirtualBox, Windows Server 2016, and linked clones with Remote Desktop Protocol (RDP). Seamlessly incorporating Windows 10 client machines into the Windows Server 2016 domain, I meticulously crafted and tailored an Active Directory template, accommodating the unique properties of over 100 user accounts.
+-This project underscores my proficiency in Active Directory management. I orchestrated the meticulous setup of VirtualBox, Windows Server 2019, and linked clones, seamlessly integrating Windows 10 clients. In crafting a bespoke Active Directory template for over 100 user accounts, I delved into the intricacies of the domain, configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2019.
 
 
--In addition, I fine-tuned the intricacies of the domain by configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2016. My role extended to the implementation of Group Policy Objects (GPO) within Active Directory, ensuring a streamlined and efficient organizational structure.
+-In steering this tech project, my responsibilities extended beyond basic configurations. I played a crucial role in implementing Group Policy Objects (GPO) within Active Directory, prioritizing not only functionality but also creating a streamlined and efficient organizational structure. This project exemplifies my holistic approach to system management.
 
 </b>
 <h2>Languages and Utilities Used</h2>
