@@ -8,8 +8,6 @@
 
 </b>
 <br />
-
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
