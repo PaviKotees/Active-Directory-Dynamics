@@ -1,7 +1,5 @@
-# Active Directory Dynamimcs
+# Active Directory Dynamics
 
-
- ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 
