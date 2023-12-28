@@ -25,11 +25,12 @@ Install Windows Server 2019: <br/>
 <br />
 <br />
 Add AD DS and promote server to DC:  <br/>
-<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5549e4ec-776b-4a56-bb5e-cc555e42dabf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5549e4ec-776b-4a56-bb5e-cc555e42dabf" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Creating new user: <br/>
-<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/e45884bf-10e0-44e9-bea6-1b04901ca8e7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create new user: <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/e45884bf-10e0-44e9-bea6-1b04901ca8e7" height="80%" width="80%" alt="ADD"/>
+ <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5c5ccd38-c9fb-410f-aad8-3e5ef76ff034" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
 Confirm your selection:  <br/>
