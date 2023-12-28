@@ -33,8 +33,8 @@ Create new user: <br/>
  <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5c5ccd38-c9fb-410f-aad8-3e5ef76ff034" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Windows 10 on another machine, configure DC and Windows 10 machine to be in the same network :  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/ce1e16e9-1b57-401c-8361-5fdb65445d6a" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
