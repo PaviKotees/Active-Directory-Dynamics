@@ -14,7 +14,8 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2019</b>
+- <b>Windows 10</b> (Enterprise Evaluation)
 
 <h2>Program walk-through:</h2>
 
