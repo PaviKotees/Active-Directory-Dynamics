@@ -41,12 +41,13 @@ Configure the DNS on Windows 10 machine to the DC which will be the DNS provider
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/1ad6b4a8-9839-4e63-8817-f691d92f5aef" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Windows 10 to ActiveDirectoryDynamics.com domain:  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/e840bcb6-58cb-471d-842b-abd38e90eb77" height="80%" width="80%" alt="ADD"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/30be1e11-bd6e-4bef-8f4c-130a7f15d57a" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify on the DC's server manager:  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/0b5c58db-a56f-4fe0-9e07-e1c21d267b60" height="80%" width="80%" alt="ADD"/>
 </p>
 
 <!--
