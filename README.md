@@ -28,8 +28,8 @@ Add AD DS and promote server to DC:  <br/>
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5549e4ec-776b-4a56-bb5e-cc555e42dabf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating new user: <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/e45884bf-10e0-44e9-bea6-1b04901ca8e7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
