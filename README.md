@@ -17,7 +17,7 @@
 - <b>Windows Server 2019</b>
 - <b>Windows 10</b> (Enterprise Evaluation)
 
-<h2>Program walk-through:</h2>
+<h2>Simplified Program walk-through:</h2>
 
 <p align="center">
 Install Windows Server 2019: <br/>
