@@ -7,7 +7,6 @@
 -In addition, I fine-tuned the intricacies of the domain by configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2016. My role extended to the implementation of Group Policy Objects (GPO) within Active Directory, ensuring a streamlined and efficient organizational structure.
 
 </b>
-<br />
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
