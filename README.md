@@ -24,8 +24,8 @@ Install Windows Server 2019: <br/>
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/59d1097b-5c0a-4529-8f00-daa45e50099a"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add AD DS and promote server to DC:  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5549e4ec-776b-4a56-bb5e-cc555e42dabf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
