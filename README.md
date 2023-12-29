@@ -1,10 +1,13 @@
 # Active Directory Dynamics
 <h2>Description</h2>
 
--This project underscores my proficiency in Active Directory management. I went through the meticulous setup of VirtualBox, Windows Server 2019, and linked clones, seamlessly integrating Windows 10 clients. Crafted a bespoke Active Directory template for over 100 user accounts, I delved into the intricacies of the domain, configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2019.
+-This project underscores my proficiency in Active Directory management. I went through the meticulous setup of VirtualBox, Windows Server 2019, and linked clones, seamlessly integrating Windows 10 clients. Crafted a bespoke Active Directory template for over 1000 user accounts, I delved into the intricacies of the domain, configuring settings, server names, TCP/IP settings, and optimizing remote desktop functionalities on Windows Server 2019.
 
 
 -In steering this tech project, I extended beyond basic configurations - implementing Group Policy Objects (GPO) within Active Directory, prioritizing not only functionality but also creating a streamlined and efficient organizational structure. This project exemplifies my holistic approach to system management.
+
+-Leveraged PowerShell scripting to efficiently add 1000 users to Active Directory, saving time and enhancing efficiency.
+
 
 </b>
 <h2>Languages and Utilities Used</h2>
