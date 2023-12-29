@@ -28,9 +28,10 @@ Add AD DS and promote server to DC:  <br/>
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5549e4ec-776b-4a56-bb5e-cc555e42dabf" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
-Create new user: <br/>
+Create new user and admin: <br/>
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/e45884bf-10e0-44e9-bea6-1b04901ca8e7" height="80%" width="80%" alt="ADD"/>
- <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5c5ccd38-c9fb-410f-aad8-3e5ef76ff034" height="80%" width="80%" alt="ADD"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/5c5ccd38-c9fb-410f-aad8-3e5ef76ff034" height="80%" width="80%" alt="ADD"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/2e773026-1e9d-4236-89f9-460691b2733f" height="80%" width="80%" alt="ADD"/>
 <br />
 <br />
 Install Windows 10 on another machine, configure DC and Windows 10 machine to be in the same network :  <br/>
@@ -48,6 +49,19 @@ Add Windows 10 to ActiveDirectoryDynamics.com domain:  <br/>
 <br />
 Verify on the DC's server manager:  <br/>
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/0b5c58db-a56f-4fe0-9e07-e1c21d267b60" height="80%" width="80%" alt="ADD"/>
+<br />
+<br />
+Simplify adding 1000+ users to directory using PowerShell scripting:  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/81ccdf71-abf5-4d5b-87d3-4ac24b420a8c" height="80%" width="80%" alt="ADD"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/4e33d2dd-9729-40aa-9b2e-a2e2945881e1" height="80%" width="80%" alt="ADD"/>
+<br />
+<br />
+Execute PowerShell script:  <br/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/1fd36a37-1469-443d-b95b-83df1456e85e" height="80%" width="80%" alt="ADD"/>
+<br />
+<br />
+Verify using Active Directory Users and Computers:
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/29293edb-a0bd-4de1-9be7-cf0198578619" height="80%" width="80%" alt="ADD"/>
 </p>
 
 <!--
