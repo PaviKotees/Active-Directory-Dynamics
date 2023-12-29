@@ -6,7 +6,7 @@
 
 -In steering this tech project, I extended beyond basic configurations - implementing Group Policy Objects (GPO) within Active Directory, prioritizing not only functionality but also creating a streamlined and efficient organizational structure. This project exemplifies my holistic approach to system management.
 
--Leveraged PowerShell scripting to efficiently add 1000 users to Active Directory, saving time and enhancing efficiency.
+-Harnessing the power of PowerShell scripting, I employed an efficient strategy to add over 1000 users to Active Directory. This not only significantly saved time but also greatly enhanced operational efficiency, exemplifying my commitment to leveraging technology for streamlined and effective processes.
 
 
 </b>
