@@ -24,7 +24,7 @@
 
 <p align="center">
 Install Windows Server 2019: <br/>
-<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/59d1097b-5c0a-4529-8f00-daa45e50099a" height="70%" width="70%"/>
+<img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/59d1097b-5c0a-4529-8f00-daa45e50099a" height="50%" width="70%"/>
 <br />
 <br />
 Add AD DS and promote server to DC:  <br/>
