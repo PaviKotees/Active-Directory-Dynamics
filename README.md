@@ -70,7 +70,7 @@ Verify using Active Directory Users and Computers:
 </p>
 
 
-### That concludes this project. 
+### That concludes this project. It helped me understand the workings of Windows server and Active Directory which is going to be essential for my upcoming projects.
 <!--
  ```diff
 - text in red
