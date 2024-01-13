@@ -64,9 +64,13 @@ Execute PowerShell script:  <br/>
 <br />
 <br />
 Verify using Active Directory Users and Computers:
+
+
 <img src="https://github.com/PaviKotees/ActiveDirectoryLab/assets/154454339/29293edb-a0bd-4de1-9be7-cf0198578619" height="50%" width="50%" alt="ADD"/>
 </p>
 
+
+### That concludes this project. 
 <!--
  ```diff
 - text in red
